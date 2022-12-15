@@ -32,5 +32,5 @@ direcionado.
 selecionar o motorista.
 #
 
-### Tenho algumas ideia vou por em prática.
+### Tenho algumas ideias para colocar em prática.
 ## Novas funcionalidades e melhorias no código serão adicionadas.
